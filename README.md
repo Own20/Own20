@@ -22,3 +22,7 @@
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Own20)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Own20&show_icons=true&theme=dark)
