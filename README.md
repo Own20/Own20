@@ -24,10 +24,6 @@
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Own20&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" />
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=Own20&theme=swift&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Own20&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Own20&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
