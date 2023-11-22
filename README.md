@@ -2,9 +2,11 @@
 <h3 align="center">A passionate software developer from Indonesia, interested in data fields</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on projects
+🔭 I’m currently working on my university courses final projects
 <br> <br>
 🌱 I’m currently learning **Python, SQL, and Typescript**
+<br> <br>
+🤝 I’m currently looking for any internship or work that requires minimum experience for me to explore more in a specific field
 <br>
 
 
@@ -24,6 +26,7 @@
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Own20&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" />
 </div>
 
+<!---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
