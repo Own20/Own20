@@ -18,10 +18,10 @@
 
 # 📊 GitHub Stats:
 <div align=center>
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=Own20&theme=swift&hide_border=false&include_all_commits=true&count_private=false" alt="streak stats"/>
-  <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=Own20&theme=swift&hide_border=false" alt="readme stats"/>
+  <img height=100 src="https://github-readme-stats.vercel.app/api?username=Own20&theme=swift&hide_border=false&include_all_commits=true&count_private=false" alt="streak stats"/>
+  <img height=100 src="https://github-readme-streak-stats.herokuapp.com/?user=Own20&theme=swift&hide_border=false" alt="readme stats"/>
   <br/>
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Own20&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" />
+  <img height=100 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Own20&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" />
 </div>
 
 ![](https://github-readme-stats.vercel.app/api?username=Own20&theme=swift&hide_border=false&include_all_commits=true&count_private=false)<br/>
