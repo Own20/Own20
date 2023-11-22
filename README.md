@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Own20.Own20" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Own20.Own20"/>
 <br>
 
 <h1 align="center">Hi👋, I'm Owen</h1>
