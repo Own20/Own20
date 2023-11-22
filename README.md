@@ -2,7 +2,6 @@
 <br>
 
 <h1 align="center">Hi👋, I'm Owen</h1>
-<br>
 <h3 align="center">A passionate software developer from Indonesia, interested in data fields</h3>
 <br>
 
