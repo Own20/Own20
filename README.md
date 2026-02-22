@@ -4,26 +4,26 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋++I'm+Owen;" />
 </h1>
-<h3 align="center">A passionate software developer from Indonesia, interested in data fields</h3>
+<h3 align="center">A passionate data enthusiast and software developer</h3>
 <br>
 
 
 
 ## 💫 About Me:
-🔭 I’m currently working on my university courses final projects
+🔭 I’m a fresh graduate in Computer Science and currently working on personal projects to deepen my knowledge.
 <br> <br>
-🌱 I’m currently learning **Python, SQL, and Typescript**
+🌱 I’m currently learning **Microsoft Excel, SQL, and Python** for data related projects and **JavaScript Frameworks** for web development projects.
 <br> <br>
-🤝 I’m currently looking for any internship or work that requires minimum experience for me to explore more in a specific field
+🤝 I am currently seeking data-focused opportunities where I can further develop my analytical and problem-solving skills, leverage data-driven insights to support strategic decision-making, and contribute to solving complex, real-world business challenges that drive measurable impact.
 <br>
 <br>
 
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:christopherowen2000403@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/own20#6092)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/christopher.owen20/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/christopherowen20/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/christopher.owen20/)
+[![LinkedIn](https://img.shields.io/badge/OneDrive-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/christopherowen20/](https://1drv.ms/f/c/70dcf6c680b59b02/IgB4p1GPUiK0SLIOJ-Q0GPayAQYxbOEtEQr1lS_jp3pRjNo?e=nxqlG2)) 
 <br>
 <br>
 
@@ -36,10 +36,12 @@
 
 ## 📊 GitHub Stats:
 <div align=center>
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Own20&theme=swift&hide_border=false&include_all_commits=true&count_private=false" alt="streak stats"/>
+  <!-- <img height=200 src="https://github-readme-stats.vercel.app/api?username=Own20&theme=swift&hide_border=false&include_all_commits=true&count_private=false" alt="streak stats"/> -->
   <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=Own20&theme=swift&hide_border=false" alt="readme stats"/>
   <br/>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Own20&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" />
+  <!-- <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Own20&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" /> -->
+    
+    [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/own20#6092)
 </div>
 
 <!---
